@@ -9,6 +9,7 @@ public class Calculator{
         double calcResult;
 
         //User selects what operation they want to perform
+        System.out.println("Github version 1.0.0");
         System.out.println("Calculator Menu");
         System.out.println("---------------");
         System.out.println("0. Exit Program");
